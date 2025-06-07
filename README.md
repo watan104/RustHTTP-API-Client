@@ -196,7 +196,7 @@ if is_valid_json(&data) {
 Clone the repository and run the demo:
 
 ```bash
-git clone https://github.com/yourusername/rust-http-client.git
+git clone https://github.com/watan104/rust-http-client.git
 cd rust-http-client
 cargo run
 ```
